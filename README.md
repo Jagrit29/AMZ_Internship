@@ -1,5 +1,5 @@
 # AMZ_Internship
-First Task:
+
 
 1. Day 1: Responsive Layout : [Link to View](https://jagrit29.github.io/AMZ_Internship/amz/index.html) <br>
                               [Link to Repo](https://github.com/Jagrit29/AMZ_Internship2)
